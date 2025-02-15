@@ -1,0 +1,43 @@
+footer{
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+    color: white;
+}
+h2, h3{
+    color: rgb(194, 26, 228);
+    padding: 15px;
+}
+.logo{
+    border: 5px solid black;
+    border-radius: 35px;
+    background:linear-gradient(red, orange);}
+.logo img{
+    border-radius: 69px;
+}
+h1{
+    color: red;
+}
+h2,h3{background-color: aqua;
+    border-radius: 25px;
+}
+dl{
+    background-image: url(/images/5.jpg);
+    border-radius: 9px;
+}
+.nav{
+    padding: 10px;
+}
+.nav ul li{
+    display: inline;
+}
+.nav ul li a{
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bolder larger;
+}
+.nav ul li a :hover{
+    text-decoration: underline;
+}
+*{
+    margin: 0px;
+}

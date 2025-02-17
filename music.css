@@ -1,0 +1,33 @@
+footer{
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+    color: white;
+}
+.logo{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 35px;
+    background:linear-gradient(red, orange);
+}
+.logo img{
+    border-radius: 69px;
+}
+.nav{
+    padding: 10px;
+}
+.nav ul li{
+    display: inline;
+}
+.nav ul li a{
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bolder larger;
+}
+.nav ul li a :hover{
+    text-decoration: underline;
+}
+img{
+    height: 100%;
+}
+*{
+    margin: 0px;
+}
